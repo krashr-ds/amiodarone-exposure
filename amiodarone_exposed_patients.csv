@@ -1,0 +1,204 @@
+patient_id,gender,patient_dob,race,ethnicity,county,state
+875,Female,5/1/1936,White,"Not Hispanic",4280,AR
+3271,Male,1/1/1972,White,"Not Hispanic",38080,OR
+3906,Male,3/1/1939,White,"Not Hispanic",5200,CA
+4233,Male,8/1/1953,White,"Not Hispanic",39620,PA
+4549,Female,11/1/1933,White,"Not Hispanic",15430,IN
+4830,Male,6/1/1929,White,"Not Hispanic",5060,CA
+5646,Female,5/1/1943,Unspecified,"Not Hispanic",34480,NC
+5680,Female,4/1/1929,White,"Not Hispanic",31150,NJ
+5894,Male,5/1/1948,"Black or African American","Not Hispanic",19250,LA
+7083,Female,7/1/1939,White,"Not Hispanic",10470,FL
+7134,Female,12/1/1964,White,"Not Hispanic",10050,FL
+7630,Female,8/1/1919,"Black or African American","Not Hispanic",18550,KY
+7682,Female,7/1/1934,"Black or African American","Not Hispanic",49750,VA
+8980,Female,8/1/1918,White,"Not Hispanic",45130,TX
+9218,Male,7/1/1919,White,"Not Hispanic",5200,CA
+9462,Female,8/1/1921,White,"Not Hispanic",24610,MN
+9991,Female,2/1/1928,White,"Not Hispanic",52350,WI
+10158,Female,12/1/1933,White,"Not Hispanic",6340,CO
+10193,Female,2/1/1971,White,"Not Hispanic",31200,NJ
+10198,Female,2/1/1940,Unspecified,"Not Hispanic",14090,IL
+10252,Female,9/1/1925,White,"Not Hispanic",28000,NE
+10286,Female,1/1/1928,White,"Not Hispanic",22130,MA
+10432,Male,9/1/1934,White,"Not Hispanic",37060,OK
+10553,Female,12/1/1940,White,"Not Hispanic",45843,TX
+10612,Male,5/1/1946,White,"Not Hispanic",42060,SC
+11053,Female,11/1/1935,"Black or African American","Not Hispanic",24260,MN
+11392,Male,1/1/1924,White,"Not Hispanic",39080,PA
+11589,Male,5/1/1938,White,"Not Hispanic",45130,TX
+12572,Female,4/1/1925,White,"Not Hispanic",50260,WA
+13139,Male,6/1/1955,White,"Not Hispanic",10300,FL
+13660,Male,12/1/1937,White,"Not Hispanic",4420,AR
+14211,Male,10/1/1971,White,"Not Hispanic",42390,SC
+15706,Male,3/1/1933,White,"Not Hispanic",5400,CA
+15968,Female,2/1/1940,White,"Not Hispanic",33000,NY
+16133,Female,2/1/1909,White,"Not Hispanic",45757,TX
+16521,Male,1/1/1925,White,"Not Hispanic",36860,OH
+16617,Female,3/1/1939,"Black or African American","Not Hispanic",14570,IL
+16628,Female,8/1/1917,White,"Not Hispanic",23830,MI
+16996,Female,1/1/1927,White,"Not Hispanic",45390,TX
+17077,Female,2/1/1938,"Black or African American","Not Hispanic",21020,MD
+17141,Male,9/1/1928,White,"Not Hispanic",18989,KY
+17233,Male,2/1/1953,White,"Not Hispanic",45120,TX
+17359,Female,1/1/1943,White,"Not Hispanic",16060,IA
+18427,Female,9/1/1942,White,"Not Hispanic",18540,KY
+19427,Female,2/1/1942,"Black or African American","Not Hispanic",33060,NY
+20046,Male,3/1/1941,White,"Not Hispanic",37710,OK
+20791,Female,7/1/1924,Unspecified,"Not Hispanic",5060,CA
+21601,Female,1/1/1920,"Black or African American","Not Hispanic",5400,CA
+21884,Male,10/1/1943,White,"Not Hispanic",50300,WA
+21890,Female,1/1/1935,Unspecified,Hispanic,33331,NY
+22337,Female,12/1/1926,"Black or African American","Not Hispanic",31260,NJ
+22653,Female,11/1/1933,White,"Not Hispanic",3060,AZ
+23359,Male,11/1/1959,White,"Not Hispanic",14830,IL
+24406,Female,3/1/1925,White,"Not Hispanic",10510,FL
+24752,Female,4/1/1934,White,"Not Hispanic",39010,PA
+26495,Male,3/1/1938,White,"Not Hispanic",10630,FL
+26503,Female,12/1/1957,"Black or African American","Not Hispanic",11530,GA
+26689,Male,11/1/1952,White,"Not Hispanic",41030,RI
+27081,Male,7/1/1931,Unspecified,Hispanic,54999,54
+27238,Male,7/1/1943,White,"Not Hispanic",49000,VA
+27535,Male,10/1/1938,White,"Not Hispanic",33800,NY
+27915,Male,9/1/1963,White,"Not Hispanic",18931,KY
+28418,Female,11/1/1932,"Black or African American","Not Hispanic",33400,NY
+28668,Male,10/1/1910,White,"Not Hispanic",36140,OH
+28914,Female,6/1/1915,White,"Not Hispanic",17860,KS
+29034,Female,3/1/1944,White,"Not Hispanic",19310,LA
+29511,Female,11/1/1937,White,"Not Hispanic",52400,WI
+30148,Female,4/1/1927,White,"Not Hispanic",33380,NY
+30161,Male,10/1/1924,White,"Not Hispanic",39010,PA
+31627,Female,12/1/1924,White,"Not Hispanic",10490,FL
+32971,Male,5/1/1935,White,"Not Hispanic",14250,IL
+33699,Female,8/1/1921,White,"Not Hispanic",14570,IL
+33984,Female,10/1/1918,White,"Not Hispanic",23100,MI
+34569,Male,8/1/1941,White,"Not Hispanic",5470,CA
+37335,Female,2/1/1948,White,"Not Hispanic",16900,IA
+38286,Female,8/1/1960,White,"Not Hispanic",22160,MA
+38442,Female,12/1/1923,White,"Not Hispanic",10120,FL
+38696,Female,4/1/1922,White,"Not Hispanic",4290,AR
+39565,Female,10/1/1933,White,"Not Hispanic",38070,OR
+39624,Female,12/1/1929,White,"Not Hispanic",5440,CA
+40648,Female,12/1/1932,White,"Not Hispanic",26990,MO
+41239,Female,12/1/1920,White,"Not Hispanic",10600,FL
+41287,Female,7/1/1932,White,"Not Hispanic",17100,KS
+41344,Female,9/1/1922,White,"Not Hispanic",8010,DE
+42641,Female,2/1/1927,Unspecified,"Not Hispanic",33420,NY
+43911,Female,12/1/1923,White,"Not Hispanic",5200,CA
+43966,Male,10/1/1938,White,"Not Hispanic",5200,CA
+44353,Male,4/1/1935,Unspecified,"Not Hispanic",5200,CA
+45894,Male,3/1/1925,White,"Not Hispanic",3060,AZ
+46857,Female,9/1/1954,White,"Not Hispanic",11580,GA
+47089,Female,9/1/1932,White,"Not Hispanic",44210,TN
+47266,Female,10/1/1921,White,"Not Hispanic",3090,AZ
+47461,Male,2/1/1941,White,"Not Hispanic",45240,TX
+47837,Female,1/1/1924,White,"Not Hispanic",10280,FL
+48736,Female,1/1/1960,White,"Not Hispanic",38070,OR
+49305,Female,7/1/1942,White,"Not Hispanic",37710,OK
+49988,Female,9/1/1964,White,"Not Hispanic",39460,PA
+50236,Female,12/1/1912,White,"Not Hispanic",33420,NY
+50929,Female,11/1/1919,White,"Not Hispanic",51360,WV
+52811,Female,3/1/1934,White,"Not Hispanic",5090,CA
+52991,Female,9/1/1921,"Black or African American","Not Hispanic",52660,WI
+53074,Male,7/1/1941,White,"Not Hispanic",10490,FL
+53203,Male,6/1/1931,White,"Not Hispanic",44320,TN
+53218,Female,10/1/1979,White,"Not Hispanic",51370,WV
+54046,Male,3/1/1934,White,"Not Hispanic",49950,VA
+54096,Female,10/1/1920,White,"Not Hispanic",10280,FL
+55217,Female,12/1/1937,"Black or African American","Not Hispanic",1070,AL
+56552,Female,4/1/1964,Unspecified,"Not Hispanic",5400,CA
+58777,Female,12/1/1933,"Black or African American","Not Hispanic",25240,MS
+59997,Female,8/1/1920,White,"Not Hispanic",36790,OH
+60015,Male,4/1/1938,White,"Not Hispanic",26130,MO
+60201,Female,4/1/1932,White,"Not Hispanic",45910,TX
+60547,Female,2/1/1914,White,"Not Hispanic",22020,MA
+60673,Female,11/1/1980,"Black or African American","Not Hispanic",10490,FL
+62789,Female,9/1/1928,White,"Not Hispanic",49680,VA
+64099,Female,5/1/1940,White,"Not Hispanic",34790,NC
+64339,Male,4/1/1934,White,"Not Hispanic",36740,OH
+65188,Female,10/1/1933,White,"Not Hispanic",13220,ID
+66157,Male,11/1/1942,"Black or African American","Not Hispanic",33200,NY
+66301,Male,2/1/1919,White,"Not Hispanic",45610,TX
+66375,Male,7/1/1940,White,"Not Hispanic",5120,CA
+66537,Male,4/1/1918,White,"Not Hispanic",39560,PA
+66732,Male,10/1/1919,"Black or African American","Not Hispanic",25230,MS
+66953,Female,1/1/1934,White,"Not Hispanic",44320,TN
+66961,Female,3/1/1928,White,"Not Hispanic",5660,CA
+66993,Female,7/1/1922,White,"Not Hispanic",23810,MI
+67699,Female,3/1/1941,"Black or African American","Not Hispanic",33400,NY
+68850,Male,2/1/1933,White,"Not Hispanic",1120,AL
+69069,Male,3/1/1927,White,"Not Hispanic",15810,IN
+70840,Female,4/1/1923,White,"Not Hispanic",50050,WA
+71535,Female,5/1/1927,White,"Not Hispanic",33000,NY
+72012,Female,6/1/1919,White,"Not Hispanic",26380,MO
+72111,Female,3/1/1935,White,"Not Hispanic",22150,MA
+73386,Male,12/1/1919,White,"Not Hispanic",11370,GA
+73387,Female,1/1/1924,White,"Not Hispanic",39600,PA
+73445,Female,5/1/1918,White,"Not Hispanic",4590,AR
+74128,Female,12/1/1930,White,"Not Hispanic",34480,NC
+74652,Female,10/1/1931,White,"Not Hispanic",10340,FL
+74922,Female,1/1/1925,White,"Not Hispanic",23380,MI
+75884,Male,5/1/1940,"Black or African American","Not Hispanic",10050,FL
+76052,Male,8/1/1928,White,"Not Hispanic",26470,MO
+76339,Female,12/1/1930,White,"Not Hispanic",31300,NJ
+78654,Female,4/1/1934,White,"Not Hispanic",39110,PA
+78790,Female,5/1/1938,White,"Not Hispanic",51380,WV
+79528,Male,7/1/1946,White,"Not Hispanic",10350,FL
+79573,Female,2/1/1940,White,"Not Hispanic",52310,WI
+80629,Female,12/1/1910,White,"Not Hispanic",3060,AZ
+81034,Male,3/1/1934,White,"Not Hispanic",14610,IL
+81442,Male,1/1/1949,White,"Not Hispanic",5030,CA
+81756,Female,5/1/1925,White,"Not Hispanic",5400,CA
+81981,Male,1/1/1938,White,"Not Hispanic",8010,DE
+83240,Female,12/1/1938,White,"Not Hispanic",10100,FL
+84160,Female,12/1/1970,"Black or African American","Not Hispanic",37350,OK
+84264,Female,1/1/1929,"Black or African American","Not Hispanic",5200,CA
+84685,Female,9/1/1923,White,"Not Hispanic",23810,MI
+86092,Male,9/1/1928,White,"Not Hispanic",49411,VA
+86139,Male,9/1/1924,White,"Not Hispanic",3130,AZ
+86686,Male,3/1/1928,White,"Not Hispanic",39080,PA
+86874,Male,2/1/1929,Unspecified,"Not Hispanic",23490,MI
+87082,Male,12/1/1924,"Black or African American","Not Hispanic",39140,PA
+88972,Female,9/1/1941,White,"Not Hispanic",11890,GA
+89630,Male,1/1/1921,White,"Not Hispanic",22020,MA
+89737,Male,7/1/1913,White,"Not Hispanic",26100,MO
+90461,Male,3/1/1942,"Black or African American","Not Hispanic",19270,LA
+90917,Male,7/1/1920,White,"Not Hispanic",10090,FL
+92167,Female,4/1/1937,"Black or African American","Not Hispanic",10630,FL
+92804,Male,1/1/1943,White,"Not Hispanic",24260,MN
+94122,Female,12/1/1927,White,"Not Hispanic",13000,ID
+94159,Female,4/1/1927,White,"Not Hispanic",5000,CA
+95584,Female,6/1/1936,White,"Not Hispanic",10490,FL
+96709,Male,6/1/1935,"Black or African American","Not Hispanic",36140,OH
+96881,Female,2/1/1932,Unspecified,Hispanic,5200,CA
+96970,Male,9/1/1937,White,"Not Hispanic",49440,VA
+97826,Male,2/1/1920,White,"Not Hispanic",1560,AL
+98937,Male,2/1/1943,White,"Not Hispanic",11311,GA
+99414,Female,12/1/1940,White,"Not Hispanic",25510,MS
+99481,Male,3/1/1932,White,"Not Hispanic",23810,MI
+99838,Female,4/1/1931,White,"Not Hispanic",10350,FL
+100679,Female,5/1/1954,White,"Not Hispanic",45973,TX
+101133,Female,5/1/1929,Unspecified,"Not Hispanic",5480,CA
+102004,Female,11/1/1927,White,"Not Hispanic",1600,AL
+103688,Female,8/1/1924,White,"Not Hispanic",50010,WA
+103859,Female,3/1/1939,White,"Not Hispanic",10540,FL
+104254,Female,2/1/1940,White,"Not Hispanic",23460,MI
+104449,Female,2/1/1927,White,"Not Hispanic",11290,GA
+105659,Male,7/1/1933,White,"Not Hispanic",45962,TX
+105675,Male,10/1/1926,White,"Not Hispanic",46280,UT
+106334,Female,12/1/1933,White,"Not Hispanic",19270,LA
+106411,Male,3/1/1962,White,"Not Hispanic",42310,SC
+107007,Female,1/1/1931,White,"Not Hispanic",19580,LA
+107865,Female,3/1/1926,White,"Not Hispanic",39470,PA
+108414,Female,4/1/1911,White,"Not Hispanic",5550,CA
+110963,Female,7/1/1910,White,"Not Hispanic",10070,FL
+111307,Male,1/1/1940,White,"Not Hispanic",36460,OH
+111344,Female,3/1/1983,"Black or African American","Not Hispanic",31260,NJ
+111598,Female,9/1/1951,White,"Not Hispanic",52440,WI
+112009,Female,8/1/1940,White,"Not Hispanic",45610,TX
+112262,Female,1/1/1937,White,"Not Hispanic",3070,AZ
+113140,Female,8/1/1925,"Black or African American","Not Hispanic",9000,DC
+113417,Male,7/1/1934,Unspecified,"Not Hispanic",33420,NY
+114821,Male,5/1/1931,White,"Not Hispanic",36580,OH
+115881,Female,5/1/1938,White,"Not Hispanic",5400,CA
+116232,Female,6/1/1928,Unspecified,"Not Hispanic",5140,CA

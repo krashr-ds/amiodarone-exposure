@@ -1,0 +1,7 @@
+
+exclude/Amio_Patients_Visits_Procedures.sql
+exclude/Condition_Codes.sql
+exclude/Condition_Codes2.sql
+exclude/ICD9Codes.sql
+exclude/People_Amio_Related_Conditions_SNOMED_v_ICD9_value.sql
+exclude/Test.sql

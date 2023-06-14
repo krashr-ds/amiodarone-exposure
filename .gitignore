@@ -5,3 +5,17 @@ exclude/Condition_Codes2.sql
 exclude/ICD9Codes.sql
 exclude/People_Amio_Related_Conditions_SNOMED_v_ICD9_value.sql
 exclude/Test.sql
+.ipynb_checkpoints/Amiodarone Cohort Analysis I - Data Exploration & Analytic Set-up-checkpoint.ipynb
+.ipynb_checkpoints/Amiodarone Cohort Analysis II - Data Cleaning & Reshaping-checkpoint.ipynb
+.ipynb_checkpoints/Amiodarone Cohort Analysis III - Exploring the Longitudinal Data-checkpoint.ipynb
+.ipynb_checkpoints/Amiodarone Cohort Analysis IV - Time Series Analysis-checkpoint.ipynb
+.ipynb_checkpoints/Random Stuff-checkpoint.ipynb
+amiodarone_exposed_conditions_all_OLD.csv
+exclude/amiodarone_exposed_conditions1_OLD.csv
+exclude/amiodarone_exposed_conditions2_OLD.csv
+exclude/amiodarone_exposed_procedures.csv
+exclude/cpt_lookup.xlsx
+exclude/cpt_null.csv
+exclude/cpt_null.xlsx
+exclude/cpt_procedures.csv
+Random Stuff.ipynb

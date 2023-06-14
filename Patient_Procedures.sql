@@ -24,6 +24,7 @@ SELECT
         p.visit_occurrence_id as visit_id,
         c.concept_name as procedure_name,
         c.concept_code as procedure_code,
+        c.vocabulary_id as code_type,
 		p.procedure_date as vstart,
         NULL as vend,
         NULL as vduration,
@@ -33,5 +34,5 @@ FROM procedure_occurrence p INNER JOIN exposed_patients ep
 								ON p.person_id = ep.patient_id
 							LEFT JOIN concept c 
 								ON p.procedure_concept_id = c.concept_id
-WHERE ep.treatment_start >= p.procedure_date
+WHERE p.procedure_date >= ep.treatment_start 
 ORDER BY vstart ASC

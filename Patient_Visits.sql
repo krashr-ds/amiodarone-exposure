@@ -35,6 +35,6 @@ FROM visit_occurrence INNER JOIN exposed_patients
 						ON visit_occurrence.visit_occurrence_id = condition_occurrence.visit_occurrence_id
 							LEFT JOIN concept
 								ON condition_occurrence.condition_concept_id = concept.concept_id
-WHERE exposed_patients.treatment_start >= visit_start_date
+WHERE visit_start_date >= exposed_patients.treatment_start
 ORDER BY vstart ASC
 

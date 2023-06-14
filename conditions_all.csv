@@ -1,0 +1,308 @@
+patient_id,treatment_start,visit_id,ICD9CODE,ICD9_name,snomed_name,condition_type,snomed_code,condition_start_date,condition_end_date,condition_interval_days,treatment_condition_interval_days
+11392,6/8/2008,552989,242.9,"Thyrotoxicosis without mention of goiter or other cause, and without mention of thyrotoxic crisis or storm",Thyrotoxicosis without goiter OR other cause,THYROID,89719007,6/16/2008,6/16/2008,0,8
+18427,8/4/2009,893707,242.9,"Thyrotoxicosis without mention of goiter or other cause, and without mention of thyrotoxic crisis or storm",Thyrotoxicosis without goiter OR other cause,THYROID,89719007,10/2/2010,10/2/2010,0,424
+30161,5/7/2008,1457808,242.9,"Thyrotoxicosis without mention of goiter or other cause, and without mention of thyrotoxic crisis or storm",Thyrotoxicosis without goiter OR other cause,THYROID,89719007,6/8/2010,6/8/2010,0,762
+38696,9/15/2009,1871971,242.9,"Thyrotoxicosis without mention of goiter or other cause, and without mention of thyrotoxic crisis or storm",Thyrotoxicosis without goiter OR other cause,THYROID,89719007,10/13/2010,10/13/2010,0,393
+38696,9/15/2009,1871971,242.9,"Thyrotoxicosis without mention of goiter or other cause, and without mention of thyrotoxic crisis or storm",Thyrotoxicosis without goiter OR other cause,THYROID,89719007,10/13/2010,10/13/2010,0,393
+38696,9/15/2009,1871971,245.4,Iatrogenic thyroiditis,Iatrogenic thyroiditis,THYROID,61556008,10/13/2010,10/13/2010,0,393
+38696,9/15/2009,1871971,245.4,Iatrogenic thyroiditis,Iatrogenic thyroiditis,THYROID,61556008,10/13/2010,10/13/2010,0,393
+68850,11/16/2009,3306541,242.9,"Thyrotoxicosis without mention of goiter or other cause, and without mention of thyrotoxic crisis or storm",Thyrotoxicosis without goiter OR other cause,THYROID,89719007,12/27/2009,12/27/2009,0,41
+111598,1/15/2008,5351366,242.9,"Thyrotoxicosis without mention of goiter or other cause, and without mention of thyrotoxic crisis or storm",Thyrotoxicosis without goiter OR other cause,THYROID,89719007,9/25/2009,9/25/2009,0,619
+86686,6/14/2008,4157982,244.2,Iodine hypothyroidism,Iodine hypothyroidism,THYROID,190279008,8/12/2009,8/12/2009,0,424
+30161,5/7/2008,1457754,245.4,Iatrogenic thyroiditis,Iatrogenic thyroiditis,THYROID,61556008,2/10/2009,2/10/2009,0,279
+66301,10/14/2008,3187249,245.4,Iatrogenic thyroiditis,Iatrogenic thyroiditis,THYROID,61556008,11/26/2008,11/26/2008,0,43
+7630,4/28/2008,371831,516.8,Other specified alveolar and parietoalveolar pneumonopathies,Parietoalveolar pneumopathy,LUNG,36042005,12/22/2009,12/22/2009,0,603
+7630,4/28/2008,371831,516.8,Other specified alveolar and parietoalveolar pneumonopathies,Parietoalveolar pneumopathy,LUNG,36042005,12/22/2009,12/22/2009,0,603
+7630,4/28/2008,371831,786.05,Shortness of breath,Dyspnea,LUNG,267036007,12/22/2009,12/22/2009,0,603
+7630,4/28/2008,371831,786.05,Shortness of breath,Dyspnea,LUNG,267036007,12/22/2009,12/22/2009,0,603
+55217,10/11/2008,2652873,516.8,Other specified alveolar and parietoalveolar pneumonopathies,Parietoalveolar pneumopathy,LUNG,36042005,4/17/2009,4/17/2009,0,188
+55217,10/11/2008,2652873,516.8,Other specified alveolar and parietoalveolar pneumonopathies,Parietoalveolar pneumopathy,LUNG,36042005,4/17/2009,4/17/2009,0,188
+55217,10/11/2008,2652873,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,4/17/2009,4/17/2009,0,188
+55217,10/11/2008,2652873,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,4/17/2009,4/17/2009,0,188
+8980,7/9/2009,437086,518.82,"Other pulmonary insufficiency, not elsewhere classified",Respiratory insufficiency,LUNG,409623005,12/2/2009,12/2/2009,0,146
+12572,4/25/2008,609093,518.82,"Other pulmonary insufficiency, not elsewhere classified",Respiratory insufficiency,LUNG,409623005,9/4/2009,9/4/2009,0,497
+41287,5/4/2008,1993508,518.82,"Other pulmonary insufficiency, not elsewhere classified",Respiratory insufficiency,LUNG,409623005,4/22/2009,4/22/2009,0,353
+41287,5/4/2008,1993568,518.82,"Other pulmonary insufficiency, not elsewhere classified",Respiratory insufficiency,LUNG,409623005,2/7/2009,2/7/2009,0,279
+41287,5/4/2008,1993624,518.82,"Other pulmonary insufficiency, not elsewhere classified",Respiratory insufficiency,LUNG,409623005,7/10/2009,7/10/2009,0,432
+54046,4/17/2008,2596240,518.82,"Other pulmonary insufficiency, not elsewhere classified",Respiratory insufficiency,LUNG,409623005,11/22/2008,11/27/2008,5,219
+54046,4/17/2008,2596240,518.82,"Other pulmonary insufficiency, not elsewhere classified",Respiratory insufficiency,LUNG,409623005,11/22/2008,11/27/2008,5,219
+54046,4/17/2008,2596240,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,11/22/2008,11/27/2008,5,219
+54046,4/17/2008,2596240,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,11/22/2008,11/27/2008,5,219
+54046,4/17/2008,2596157,518.82,"Other pulmonary insufficiency, not elsewhere classified",Respiratory insufficiency,LUNG,409623005,10/17/2008,10/20/2008,3,183
+69069,4/9/2008,3317207,518.82,"Other pulmonary insufficiency, not elsewhere classified",Respiratory insufficiency,LUNG,409623005,6/8/2008,6/8/2008,0,60
+71535,1/26/2009,3433748,518.82,"Other pulmonary insufficiency, not elsewhere classified",Respiratory insufficiency,LUNG,409623005,5/19/2009,5/19/2009,0,113
+76339,2/13/2009,3661817,518.82,"Other pulmonary insufficiency, not elsewhere classified",Respiratory insufficiency,LUNG,409623005,6/15/2010,6/15/2010,0,487
+99414,3/30/2009,4771731,518.82,"Other pulmonary insufficiency, not elsewhere classified",Respiratory insufficiency,LUNG,409623005,6/24/2010,6/24/2010,0,451
+4549,10/8/2008,224884,518.89,"Other diseases of lung, not elsewhere classified",Disorder of lung,LUNG,19829001,12/28/2008,12/28/2008,0,81
+5680,1/18/2010,279377,518.89,"Other diseases of lung, not elsewhere classified",Disorder of lung,LUNG,19829001,9/21/2010,9/21/2010,0,246
+10612,6/10/2009,516830,518.89,"Other diseases of lung, not elsewhere classified",Disorder of lung,LUNG,19829001,3/16/2010,3/16/2010,0,279
+11053,2/18/2010,537885,518.89,"Other diseases of lung, not elsewhere classified",Disorder of lung,LUNG,19829001,7/20/2010,7/20/2010,0,152
+11392,6/8/2008,552955,518.89,"Other diseases of lung, not elsewhere classified",Disorder of lung,LUNG,19829001,10/15/2008,10/15/2008,0,129
+11392,6/8/2008,552955,518.89,"Other diseases of lung, not elsewhere classified",Disorder of lung,LUNG,19829001,10/15/2008,10/15/2008,0,129
+11392,6/8/2008,552955,786.05,Shortness of breath,Dyspnea,LUNG,267036007,10/15/2008,10/15/2008,0,129
+11392,6/8/2008,552955,786.05,Shortness of breath,Dyspnea,LUNG,267036007,10/15/2008,10/15/2008,0,129
+14211,11/14/2008,691021,518.89,"Other diseases of lung, not elsewhere classified",Disorder of lung,LUNG,19829001,1/18/2009,1/18/2009,0,65
+14211,11/14/2008,691119,518.89,"Other diseases of lung, not elsewhere classified",Disorder of lung,LUNG,19829001,9/28/2009,9/28/2009,0,318
+14211,11/14/2008,691120,518.89,"Other diseases of lung, not elsewhere classified",Disorder of lung,LUNG,19829001,1/29/2010,1/29/2010,0,441
+15706,3/22/2009,763870,518.89,"Other diseases of lung, not elsewhere classified",Disorder of lung,LUNG,19829001,6/17/2009,6/17/2009,0,87
+15706,3/22/2009,763870,573.8,Other specified disorders of liver,Disease of liver,LIVER,235856003,6/17/2009,6/17/2009,0,87
+15968,3/24/2010,775212,518.89,"Other diseases of lung, not elsewhere classified",Disorder of lung,LUNG,19829001,12/7/2010,12/7/2010,0,258
+16133,8/11/2008,784590,518.89,"Other diseases of lung, not elsewhere classified",Disorder of lung,LUNG,19829001,1/3/2010,1/3/2010,0,510
+16133,8/11/2008,784590,518.89,"Other diseases of lung, not elsewhere classified",Disorder of lung,LUNG,19829001,1/3/2010,1/3/2010,0,510
+16133,8/11/2008,784590,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,1/3/2010,1/3/2010,0,510
+16133,8/11/2008,784590,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,1/3/2010,1/3/2010,0,510
+16133,8/11/2008,784630,518.89,"Other diseases of lung, not elsewhere classified",Disorder of lung,LUNG,19829001,7/1/2010,7/1/2010,0,689
+16133,8/11/2008,784530,518.89,"Other diseases of lung, not elsewhere classified",Disorder of lung,LUNG,19829001,2/10/2010,2/10/2010,0,548
+16133,8/11/2008,784495,518.89,"Other diseases of lung, not elsewhere classified",Disorder of lung,LUNG,19829001,5/3/2009,5/3/2009,0,265
+16133,8/11/2008,784582,518.89,"Other diseases of lung, not elsewhere classified",Disorder of lung,LUNG,19829001,4/29/2009,4/30/2009,1,261
+16133,8/11/2008,784588,518.89,"Other diseases of lung, not elsewhere classified",Disorder of lung,LUNG,19829001,8/9/2010,8/9/2010,0,728
+16628,3/25/2008,808639,518.89,"Other diseases of lung, not elsewhere classified",Disorder of lung,LUNG,19829001,1/11/2009,1/11/2009,0,292
+16628,3/25/2008,808637,518.89,"Other diseases of lung, not elsewhere classified",Disorder of lung,LUNG,19829001,5/5/2010,5/5/2010,0,771
+16996,1/13/2009,825674,518.89,"Other diseases of lung, not elsewhere classified",Disorder of lung,LUNG,19829001,4/30/2010,4/30/2010,0,472
+17077,4/12/2008,829087,518.89,"Other diseases of lung, not elsewhere classified",Disorder of lung,LUNG,19829001,10/18/2009,10/31/2009,13,554
+17077,4/12/2008,829098,518.89,"Other diseases of lung, not elsewhere classified",Disorder of lung,LUNG,19829001,10/15/2009,10/18/2009,3,551
+18427,8/4/2009,893735,518.89,"Other diseases of lung, not elsewhere classified",Disorder of lung,LUNG,19829001,2/27/2010,3/1/2010,2,207
+19427,7/7/2008,941235,518.89,"Other diseases of lung, not elsewhere classified",Disorder of lung,LUNG,19829001,6/4/2009,6/4/2009,0,332
+20046,7/11/2008,969782,518.89,"Other diseases of lung, not elsewhere classified",Disorder of lung,LUNG,19829001,6/24/2010,6/24/2010,0,713
+20046,7/11/2008,969782,518.89,"Other diseases of lung, not elsewhere classified",Disorder of lung,LUNG,19829001,6/24/2010,6/24/2010,0,713
+20046,7/11/2008,969782,786.05,Shortness of breath,Dyspnea,LUNG,267036007,6/24/2010,6/24/2010,0,713
+20046,7/11/2008,969782,786.05,Shortness of breath,Dyspnea,LUNG,267036007,6/24/2010,6/24/2010,0,713
+27915,3/12/2008,1352665,518.89,"Other diseases of lung, not elsewhere classified",Disorder of lung,LUNG,19829001,9/30/2008,9/30/2008,0,202
+28668,7/26/2008,1387694,518.89,"Other diseases of lung, not elsewhere classified",Disorder of lung,LUNG,19829001,10/2/2008,10/2/2008,0,68
+54046,4/17/2008,2596209,518.89,"Other diseases of lung, not elsewhere classified",Disorder of lung,LUNG,19829001,7/20/2008,7/29/2008,9,94
+54046,4/17/2008,2596209,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,7/20/2008,7/29/2008,9,94
+55217,10/11/2008,2652891,518.89,"Other diseases of lung, not elsewhere classified",Disorder of lung,LUNG,19829001,12/4/2008,12/4/2008,0,54
+71535,1/26/2009,3433765,518.89,"Other diseases of lung, not elsewhere classified",Disorder of lung,LUNG,19829001,7/7/2009,7/7/2009,0,162
+73387,5/18/2008,3522886,518.89,"Other diseases of lung, not elsewhere classified",Disorder of lung,LUNG,19829001,12/3/2010,12/3/2010,0,929
+73445,9/9/2009,3525657,518.89,"Other diseases of lung, not elsewhere classified",Disorder of lung,LUNG,19829001,12/13/2010,12/13/2010,0,460
+73445,9/9/2009,3525686,518.89,"Other diseases of lung, not elsewhere classified",Disorder of lung,LUNG,19829001,3/3/2010,3/3/2010,0,175
+73445,9/9/2009,3525686,518.89,"Other diseases of lung, not elsewhere classified",Disorder of lung,LUNG,19829001,3/3/2010,3/3/2010,0,175
+73445,9/9/2009,3525686,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,3/3/2010,3/3/2010,0,175
+73445,9/9/2009,3525686,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,3/3/2010,3/3/2010,0,175
+76052,1/30/2009,3647378,518.89,"Other diseases of lung, not elsewhere classified",Disorder of lung,LUNG,19829001,11/23/2009,11/23/2009,0,297
+81981,4/4/2010,3934707,518.89,"Other diseases of lung, not elsewhere classified",Disorder of lung,LUNG,19829001,6/22/2010,6/22/2010,0,79
+81981,4/4/2010,3934707,518.89,"Other diseases of lung, not elsewhere classified",Disorder of lung,LUNG,19829001,6/22/2010,6/22/2010,0,79
+81981,4/4/2010,3934707,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,6/22/2010,6/22/2010,0,79
+81981,4/4/2010,3934707,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,6/22/2010,6/22/2010,0,79
+90917,5/22/2008,4364527,518.89,"Other diseases of lung, not elsewhere classified",Disorder of lung,LUNG,19829001,2/18/2010,2/18/2010,0,637
+99838,5/10/2009,4791827,518.89,"Other diseases of lung, not elsewhere classified",Disorder of lung,LUNG,19829001,8/5/2010,8/5/2010,0,452
+100679,10/28/2008,4831203,518.89,"Other diseases of lung, not elsewhere classified",Disorder of lung,LUNG,19829001,4/9/2010,4/9/2010,0,528
+103688,4/18/2009,4971453,518.89,"Other diseases of lung, not elsewhere classified",Disorder of lung,LUNG,19829001,7/15/2009,7/15/2009,0,88
+106334,11/29/2009,5096548,518.89,"Other diseases of lung, not elsewhere classified",Disorder of lung,LUNG,19829001,8/30/2010,8/31/2010,1,274
+111598,1/15/2008,5351326,518.89,"Other diseases of lung, not elsewhere classified",Disorder of lung,LUNG,19829001,1/22/2010,1/22/2010,0,738
+114821,7/9/2009,5505947,518.89,"Other diseases of lung, not elsewhere classified",Disorder of lung,LUNG,19829001,2/11/2010,2/11/2010,0,217
+41287,5/4/2008,1993630,573.8,Other specified disorders of liver,Disease of liver,LIVER,235856003,10/7/2010,10/7/2010,0,886
+86092,12/4/2008,4130200,573.8,Other specified disorders of liver,Disease of liver,LIVER,235856003,7/16/2009,7/16/2009,0,224
+86686,6/14/2008,4158045,573.8,Other specified disorders of liver,Disease of liver,LIVER,235856003,11/18/2008,11/18/2008,0,157
+99838,5/10/2009,4791826,573.8,Other specified disorders of liver,Disease of liver,LIVER,235856003,9/13/2009,9/13/2009,0,126
+99838,5/10/2009,4791826,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,9/13/2009,9/13/2009,0,126
+105659,5/28/2010,5064294,573.8,Other specified disorders of liver,Disease of liver,LIVER,235856003,8/31/2010,8/31/2010,0,95
+113140,8/16/2009,5422338,573.8,Other specified disorders of liver,Disease of liver,LIVER,235856003,7/11/2010,7/11/2010,0,329
+5894,3/1/2009,289337,786.05,Shortness of breath,Dyspnea,LUNG,267036007,6/24/2010,6/24/2010,0,480
+7134,2/20/2009,347369,786.05,Shortness of breath,Dyspnea,LUNG,267036007,6/2/2009,6/2/2009,0,102
+7134,2/20/2009,347369,786.05,Shortness of breath,Dyspnea,LUNG,267036007,6/2/2009,6/2/2009,0,102
+7134,2/20/2009,347369,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,6/2/2009,6/2/2009,0,102
+7134,2/20/2009,347369,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,6/2/2009,6/2/2009,0,102
+7134,2/20/2009,347301,786.05,Shortness of breath,Dyspnea,LUNG,267036007,9/14/2009,9/14/2009,0,206
+7134,2/20/2009,347278,786.05,Shortness of breath,Dyspnea,LUNG,267036007,4/12/2010,4/12/2010,0,416
+7134,2/20/2009,347276,786.05,Shortness of breath,Dyspnea,LUNG,267036007,9/6/2009,9/6/2009,0,198
+7630,4/28/2008,371834,786.05,Shortness of breath,Dyspnea,LUNG,267036007,6/28/2009,6/28/2009,0,426
+7630,4/28/2008,371817,786.05,Shortness of breath,Dyspnea,LUNG,267036007,6/14/2010,6/14/2010,0,777
+7630,4/28/2008,371862,786.05,Shortness of breath,Dyspnea,LUNG,267036007,8/22/2008,8/22/2008,0,116
+7682,10/24/2009,374564,786.05,Shortness of breath,Dyspnea,LUNG,267036007,6/7/2010,6/7/2010,0,226
+8980,7/9/2009,437024,786.05,Shortness of breath,Dyspnea,LUNG,267036007,12/23/2009,12/23/2009,0,167
+9218,4/6/2009,448238,786.05,Shortness of breath,Dyspnea,LUNG,267036007,8/13/2009,8/13/2009,0,129
+10198,9/11/2009,496867,786.05,Shortness of breath,Dyspnea,LUNG,267036007,10/18/2009,10/18/2009,0,37
+10252,4/4/2008,499521,786.05,Shortness of breath,Dyspnea,LUNG,267036007,6/21/2008,6/21/2008,0,78
+10432,11/20/2008,508455,786.05,Shortness of breath,Dyspnea,LUNG,267036007,11/25/2009,11/25/2009,0,370
+10432,11/20/2008,508455,786.05,Shortness of breath,Dyspnea,LUNG,267036007,11/25/2009,11/25/2009,0,370
+10432,11/20/2008,508455,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,11/25/2009,11/25/2009,0,370
+10432,11/20/2008,508455,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,11/25/2009,11/25/2009,0,370
+14211,11/14/2008,691072,786.05,Shortness of breath,Dyspnea,LUNG,267036007,11/27/2009,11/27/2009,0,378
+16133,8/11/2008,784562,786.05,Shortness of breath,Dyspnea,LUNG,267036007,9/27/2009,9/27/2009,0,412
+16133,8/11/2008,784503,786.05,Shortness of breath,Dyspnea,LUNG,267036007,2/11/2010,2/11/2010,0,549
+16133,8/11/2008,784513,786.05,Shortness of breath,Dyspnea,LUNG,267036007,2/14/2009,2/14/2009,0,187
+17077,4/12/2008,829180,786.05,Shortness of breath,Dyspnea,LUNG,267036007,9/24/2008,9/24/2008,0,165
+17077,4/12/2008,829095,786.05,Shortness of breath,Dyspnea,LUNG,267036007,12/28/2008,12/28/2008,0,260
+17141,7/5/2009,832379,786.05,Shortness of breath,Dyspnea,LUNG,267036007,4/24/2010,4/24/2010,0,293
+17359,3/3/2008,842461,786.05,Shortness of breath,Dyspnea,LUNG,267036007,9/29/2008,9/29/2008,0,210
+17359,3/3/2008,842461,786.05,Shortness of breath,Dyspnea,LUNG,267036007,9/29/2008,9/29/2008,0,210
+17359,3/3/2008,842461,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,9/29/2008,9/29/2008,0,210
+17359,3/3/2008,842461,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,9/29/2008,9/29/2008,0,210
+19427,7/7/2008,941244,786.05,Shortness of breath,Dyspnea,LUNG,267036007,2/15/2010,2/15/2010,0,588
+22337,2/16/2009,1077343,786.05,Shortness of breath,Dyspnea,LUNG,267036007,1/9/2010,1/10/2010,1,327
+22653,4/19/2010,1091766,786.05,Shortness of breath,Dyspnea,LUNG,267036007,6/16/2010,6/16/2010,0,58
+24406,10/22/2008,1179472,786.05,Shortness of breath,Dyspnea,LUNG,267036007,10/3/2009,10/3/2009,0,346
+24406,10/22/2008,1179406,786.05,Shortness of breath,Dyspnea,LUNG,267036007,5/4/2009,5/4/2009,0,194
+26503,11/27/2008,1281967,786.05,Shortness of breath,Dyspnea,LUNG,267036007,2/11/2009,2/11/2009,0,76
+30161,5/7/2008,1457747,786.05,Shortness of breath,Dyspnea,LUNG,267036007,6/14/2009,6/14/2009,0,403
+30161,5/7/2008,1457826,786.05,Shortness of breath,Dyspnea,LUNG,267036007,12/20/2009,12/20/2009,0,592
+31627,11/28/2009,1529063,786.05,Shortness of breath,Dyspnea,LUNG,267036007,6/3/2010,6/3/2010,0,187
+33699,11/24/2008,1631966,786.05,Shortness of breath,Dyspnea,LUNG,267036007,2/26/2009,2/26/2009,0,94
+33699,11/24/2008,1631971,786.05,Shortness of breath,Dyspnea,LUNG,267036007,1/9/2009,1/9/2009,0,46
+33699,11/24/2008,1631970,786.05,Shortness of breath,Dyspnea,LUNG,267036007,5/24/2009,5/24/2009,0,181
+33699,11/24/2008,1631970,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,5/24/2009,5/24/2009,0,181
+33699,11/24/2008,1631978,786.05,Shortness of breath,Dyspnea,LUNG,267036007,3/17/2010,3/17/2010,0,478
+33699,11/24/2008,1631974,786.05,Shortness of breath,Dyspnea,LUNG,267036007,5/24/2009,5/24/2009,0,181
+33699,11/24/2008,1631964,786.05,Shortness of breath,Dyspnea,LUNG,267036007,9/10/2009,9/10/2009,0,290
+39565,3/6/2008,1910949,786.05,Shortness of breath,Dyspnea,LUNG,267036007,5/30/2009,5/30/2009,0,450
+41287,5/4/2008,1993539,786.05,Shortness of breath,Dyspnea,LUNG,267036007,7/27/2008,7/27/2008,0,84
+41287,5/4/2008,1993558,786.05,Shortness of breath,Dyspnea,LUNG,267036007,8/27/2008,8/27/2008,0,115
+41287,5/4/2008,1993519,786.05,Shortness of breath,Dyspnea,LUNG,267036007,11/5/2008,11/5/2008,0,185
+41287,5/4/2008,1993576,786.05,Shortness of breath,Dyspnea,LUNG,267036007,12/25/2008,12/25/2008,0,235
+41287,5/4/2008,1993572,786.05,Shortness of breath,Dyspnea,LUNG,267036007,4/11/2009,4/11/2009,0,342
+41287,5/4/2008,1993513,786.05,Shortness of breath,Dyspnea,LUNG,267036007,7/10/2009,7/10/2009,0,432
+41287,5/4/2008,1993614,786.05,Shortness of breath,Dyspnea,LUNG,267036007,11/8/2009,11/8/2009,0,553
+47089,4/25/2008,2270504,786.05,Shortness of breath,Dyspnea,LUNG,267036007,3/22/2010,3/22/2010,0,696
+47089,4/25/2008,2270489,786.05,Shortness of breath,Dyspnea,LUNG,267036007,1/6/2010,1/8/2010,2,621
+52991,1/14/2009,2546884,786.05,Shortness of breath,Dyspnea,LUNG,267036007,6/2/2009,6/2/2009,0,139
+53218,9/17/2008,2557744,786.05,Shortness of breath,Dyspnea,LUNG,267036007,12/4/2009,12/4/2009,0,443
+54046,4/17/2008,2596205,786.05,Shortness of breath,Dyspnea,LUNG,267036007,1/9/2010,1/9/2010,0,632
+54046,4/17/2008,2596268,786.05,Shortness of breath,Dyspnea,LUNG,267036007,11/1/2009,11/1/2009,0,563
+54046,4/17/2008,2596178,786.05,Shortness of breath,Dyspnea,LUNG,267036007,5/21/2008,5/21/2008,0,34
+54046,4/17/2008,2596198,786.05,Shortness of breath,Dyspnea,LUNG,267036007,8/12/2008,8/12/2008,0,117
+54096,6/20/2008,2598668,786.05,Shortness of breath,Dyspnea,LUNG,267036007,12/17/2010,12/17/2010,0,910
+56552,2/14/2009,2716331,786.05,Shortness of breath,Dyspnea,LUNG,267036007,9/11/2009,9/11/2009,0,209
+56552,2/14/2009,2716311,786.05,Shortness of breath,Dyspnea,LUNG,267036007,2/8/2010,2/8/2010,0,359
+59997,4/14/2008,2884951,786.05,Shortness of breath,Dyspnea,LUNG,267036007,9/3/2008,9/4/2008,1,142
+60547,4/4/2009,2911790,786.05,Shortness of breath,Dyspnea,LUNG,267036007,1/5/2010,1/5/2010,0,276
+60547,4/4/2009,2911757,786.05,Shortness of breath,Dyspnea,LUNG,267036007,4/5/2009,4/5/2009,0,1
+60547,4/4/2009,2911757,786.05,Shortness of breath,Dyspnea,LUNG,267036007,4/5/2009,4/5/2009,0,1
+60547,4/4/2009,2911757,786.52,Painful respiration,Breathing painful,LUNG,75483001,4/5/2009,4/5/2009,0,1
+60547,4/4/2009,2911757,786.52,Painful respiration,Breathing painful,LUNG,75483001,4/5/2009,4/5/2009,0,1
+60673,10/2/2009,2917626,786.05,Shortness of breath,Dyspnea,LUNG,267036007,11/28/2009,11/28/2009,0,57
+66301,10/14/2008,3187231,786.05,Shortness of breath,Dyspnea,LUNG,267036007,11/4/2009,11/4/2009,0,386
+66301,10/14/2008,3187233,786.05,Shortness of breath,Dyspnea,LUNG,267036007,11/4/2009,11/4/2009,0,386
+66301,10/14/2008,3187233,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,11/4/2009,11/4/2009,0,386
+66301,10/14/2008,3187212,786.05,Shortness of breath,Dyspnea,LUNG,267036007,6/26/2009,6/26/2009,0,255
+66301,10/14/2008,3187212,786.05,Shortness of breath,Dyspnea,LUNG,267036007,6/26/2009,6/26/2009,0,255
+66301,10/14/2008,3187212,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,6/26/2009,6/26/2009,0,255
+66301,10/14/2008,3187212,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,6/26/2009,6/26/2009,0,255
+67699,4/2/2008,3252995,786.05,Shortness of breath,Dyspnea,LUNG,267036007,9/25/2008,9/25/2008,0,176
+69069,4/9/2008,3317191,786.05,Shortness of breath,Dyspnea,LUNG,267036007,7/5/2009,7/5/2009,0,452
+69069,4/9/2008,3317260,786.05,Shortness of breath,Dyspnea,LUNG,267036007,3/22/2010,3/23/2010,1,712
+69069,4/9/2008,3317222,786.05,Shortness of breath,Dyspnea,LUNG,267036007,3/19/2009,3/19/2009,0,344
+69069,4/9/2008,3317216,786.05,Shortness of breath,Dyspnea,LUNG,267036007,9/28/2008,9/28/2008,0,172
+69069,4/9/2008,3317169,786.05,Shortness of breath,Dyspnea,LUNG,267036007,8/7/2008,8/8/2008,1,120
+71535,1/26/2009,3433689,786.05,Shortness of breath,Dyspnea,LUNG,267036007,5/21/2009,5/21/2009,0,115
+72012,7/9/2008,3456126,786.05,Shortness of breath,Dyspnea,LUNG,267036007,10/29/2010,10/29/2010,0,842
+72012,7/9/2008,3456136,786.05,Shortness of breath,Dyspnea,LUNG,267036007,10/9/2010,10/9/2010,0,822
+72012,7/9/2008,3456130,786.05,Shortness of breath,Dyspnea,LUNG,267036007,8/25/2008,8/25/2008,0,47
+73387,5/18/2008,3522864,786.05,Shortness of breath,Dyspnea,LUNG,267036007,4/16/2009,4/16/2009,0,333
+78654,6/18/2009,3772811,786.05,Shortness of breath,Dyspnea,LUNG,267036007,9/12/2009,9/12/2009,0,86
+81442,12/3/2008,3906815,786.05,Shortness of breath,Dyspnea,LUNG,267036007,1/6/2009,1/6/2009,0,34
+84160,9/2/2009,4038483,786.05,Shortness of breath,Dyspnea,LUNG,267036007,10/3/2009,10/3/2009,0,31
+86686,6/14/2008,4157968,786.05,Shortness of breath,Dyspnea,LUNG,267036007,1/21/2010,1/21/2010,0,586
+86686,6/14/2008,4158023,786.05,Shortness of breath,Dyspnea,LUNG,267036007,8/28/2008,8/28/2008,0,75
+86874,1/15/2010,4167691,786.05,Shortness of breath,Dyspnea,LUNG,267036007,6/26/2010,6/26/2010,0,162
+90917,5/22/2008,4364555,786.05,Shortness of breath,Dyspnea,LUNG,267036007,11/3/2008,11/3/2008,0,165
+90917,5/22/2008,4364583,786.05,Shortness of breath,Dyspnea,LUNG,267036007,8/13/2008,8/13/2008,0,83
+94122,8/27/2009,4518909,786.05,Shortness of breath,Dyspnea,LUNG,267036007,1/9/2010,1/9/2010,0,135
+94159,6/4/2009,4520459,786.05,Shortness of breath,Dyspnea,LUNG,267036007,2/26/2010,2/26/2010,0,267
+95584,8/4/2008,4589000,786.05,Shortness of breath,Dyspnea,LUNG,267036007,1/23/2010,1/23/2010,0,537
+95584,8/4/2008,4589062,786.05,Shortness of breath,Dyspnea,LUNG,267036007,5/19/2010,5/19/2010,0,653
+95584,8/4/2008,4589024,786.05,Shortness of breath,Dyspnea,LUNG,267036007,11/20/2010,11/20/2010,0,838
+95584,8/4/2008,4588990,786.05,Shortness of breath,Dyspnea,LUNG,267036007,5/11/2010,5/11/2010,0,645
+96709,4/25/2009,4642894,786.05,Shortness of breath,Dyspnea,LUNG,267036007,11/20/2010,11/20/2010,0,574
+96709,4/25/2009,4642798,786.05,Shortness of breath,Dyspnea,LUNG,267036007,4/6/2010,4/6/2010,0,346
+96709,4/25/2009,4642881,786.05,Shortness of breath,Dyspnea,LUNG,267036007,1/3/2010,1/3/2010,0,253
+96709,4/25/2009,4642892,786.05,Shortness of breath,Dyspnea,LUNG,267036007,7/29/2009,7/29/2009,0,95
+99414,3/30/2009,4771713,786.05,Shortness of breath,Dyspnea,LUNG,267036007,3/27/2010,3/27/2010,0,362
+102004,3/14/2008,4892589,786.05,Shortness of breath,Dyspnea,LUNG,267036007,6/2/2010,6/2/2010,0,810
+104449,11/25/2008,5006689,786.05,Shortness of breath,Dyspnea,LUNG,267036007,1/1/2009,1/1/2009,0,37
+105659,5/28/2010,5064300,786.05,Shortness of breath,Dyspnea,LUNG,267036007,9/21/2010,9/22/2010,1,116
+111598,1/15/2008,5351411,786.05,Shortness of breath,Dyspnea,LUNG,267036007,4/11/2008,4/11/2008,0,87
+111598,1/15/2008,5351327,786.05,Shortness of breath,Dyspnea,LUNG,267036007,5/15/2009,5/15/2009,0,486
+111598,1/15/2008,5351323,786.05,Shortness of breath,Dyspnea,LUNG,267036007,10/24/2009,10/24/2009,0,648
+111598,1/15/2008,5351347,786.05,Shortness of breath,Dyspnea,LUNG,267036007,4/14/2009,4/14/2009,0,455
+113140,8/16/2009,5422314,786.05,Shortness of breath,Dyspnea,LUNG,267036007,1/27/2010,1/27/2010,0,164
+114821,7/9/2009,5505957,786.05,Shortness of breath,Dyspnea,LUNG,267036007,5/15/2010,5/15/2010,0,310
+115881,10/26/2008,5555680,786.05,Shortness of breath,Dyspnea,LUNG,267036007,4/26/2009,4/26/2009,0,182
+115881,10/26/2008,5555692,786.05,Shortness of breath,Dyspnea,LUNG,267036007,4/20/2010,4/20/2010,0,541
+116232,7/3/2008,5573841,786.05,Shortness of breath,Dyspnea,LUNG,267036007,2/13/2009,2/13/2009,0,225
+116232,7/3/2008,5573746,786.05,Shortness of breath,Dyspnea,LUNG,267036007,12/23/2008,12/23/2008,0,173
+5894,3/1/2009,289319,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,3/23/2009,3/23/2009,0,22
+7134,2/20/2009,347316,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,5/8/2009,5/8/2009,0,77
+7134,2/20/2009,347299,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,3/31/2010,3/31/2010,0,404
+7630,4/28/2008,371808,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,12/7/2010,12/7/2010,0,953
+7630,4/28/2008,371833,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,5/19/2008,5/22/2008,3,21
+7682,10/24/2009,374538,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,9/15/2010,9/15/2010,0,326
+9218,4/6/2009,448269,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,11/6/2009,11/7/2009,1,214
+9218,4/6/2009,448240,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,9/30/2009,9/30/2009,0,177
+10612,6/10/2009,516907,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,5/16/2010,5/16/2010,0,340
+12572,4/25/2008,609027,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,6/3/2010,6/3/2010,0,769
+12572,4/25/2008,609014,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,12/18/2009,12/18/2009,0,602
+12572,4/25/2008,609058,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,12/18/2009,12/18/2009,0,602
+14211,11/14/2008,691076,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,12/22/2008,12/22/2008,0,38
+14211,11/14/2008,690996,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,3/19/2009,3/19/2009,0,125
+14211,11/14/2008,691124,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,4/4/2010,4/4/2010,0,506
+16133,8/11/2008,784555,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,2/26/2010,2/26/2010,0,564
+16133,8/11/2008,784606,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,6/27/2010,7/1/2010,4,685
+16133,8/11/2008,784509,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,6/13/2010,6/13/2010,0,671
+17141,7/5/2009,832372,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,3/11/2010,3/17/2010,6,249
+17141,7/5/2009,832403,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,8/2/2009,8/2/2009,0,28
+19427,7/7/2008,941248,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,8/26/2009,9/2/2009,7,415
+19427,7/7/2008,941255,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,1/31/2009,1/31/2009,0,208
+21601,4/19/2009,1044631,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,12/30/2010,12/30/2010,0,620
+24406,10/22/2008,1179492,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,12/1/2009,12/1/2009,0,405
+24406,10/22/2008,1179464,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,11/25/2009,11/25/2009,0,399
+30161,5/7/2008,1457775,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,9/17/2009,9/17/2009,0,498
+30161,5/7/2008,1457790,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,8/5/2009,8/5/2009,0,455
+31627,11/28/2009,1529060,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,4/19/2010,4/19/2010,0,142
+33699,11/24/2008,1631930,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,1/6/2009,1/6/2009,0,43
+33699,11/24/2008,1631962,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,5/15/2009,5/15/2009,0,172
+33984,7/23/2009,1644985,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,8/25/2010,8/25/2010,0,398
+41287,5/4/2008,1993565,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,9/22/2008,9/22/2008,0,141
+41287,5/4/2008,1993505,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,12/8/2008,12/8/2008,0,218
+41344,3/12/2010,1996631,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,5/27/2010,5/27/2010,0,76
+47089,4/25/2008,2270505,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,9/16/2009,9/20/2009,4,509
+47266,6/10/2009,2279087,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,8/6/2009,8/7/2009,1,57
+53218,9/17/2008,2557721,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,11/4/2009,11/7/2009,3,413
+54046,4/17/2008,2596215,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,5/26/2008,5/27/2008,1,39
+54096,6/20/2008,2598674,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,3/27/2009,3/27/2009,0,280
+55217,10/11/2008,2652895,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,12/31/2009,12/31/2009,0,446
+60673,10/2/2009,2917594,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,7/7/2010,7/7/2010,0,278
+64339,2/11/2009,3091461,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,7/27/2009,7/27/2009,0,166
+66953,3/10/2009,3217449,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,3/7/2010,3/7/2010,0,362
+67699,4/2/2008,3253042,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,6/4/2009,6/4/2009,0,428
+69069,4/9/2008,3317214,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,10/23/2008,10/23/2008,0,197
+69069,4/9/2008,3317196,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,8/18/2008,8/18/2008,0,131
+71535,1/26/2009,3433694,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,7/18/2009,7/20/2009,2,173
+72012,7/9/2008,3456124,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,8/21/2009,8/21/2009,0,408
+73387,5/18/2008,3522897,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,6/16/2008,6/16/2008,0,29
+73445,9/9/2009,3525682,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,8/17/2010,8/17/2010,0,342
+76052,1/30/2009,3647331,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,5/4/2009,5/4/2009,0,94
+79573,5/25/2009,3817832,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,9/10/2009,9/10/2009,0,108
+84264,10/6/2010,4043651,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,12/25/2010,12/25/2010,0,80
+86139,3/18/2008,4132830,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,11/22/2009,11/22/2009,0,614
+86686,6/14/2008,4157991,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,1/17/2009,1/17/2009,0,217
+86686,6/14/2008,4158008,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,10/16/2009,10/16/2009,0,489
+90917,5/22/2008,4364530,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,9/4/2008,9/4/2008,0,105
+94159,6/4/2009,4520438,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,6/11/2010,6/11/2010,0,372
+96709,4/25/2009,4642876,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,9/30/2009,9/30/2009,0,158
+96709,4/25/2009,4642876,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,9/30/2009,9/30/2009,0,158
+96709,4/25/2009,4642876,786.52,Painful respiration,Breathing painful,LUNG,75483001,9/30/2009,9/30/2009,0,158
+96709,4/25/2009,4642876,786.52,Painful respiration,Breathing painful,LUNG,75483001,9/30/2009,9/30/2009,0,158
+100679,10/28/2008,4831264,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,2/15/2010,2/15/2010,0,475
+101133,2/14/2010,4853439,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,2/26/2010,2/26/2010,0,12
+102004,3/14/2008,4892564,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,7/18/2008,8/4/2008,17,126
+108414,1/26/2009,5199466,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,1/28/2009,1/28/2009,0,2
+111598,1/15/2008,5351330,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,5/19/2009,5/21/2009,2,490
+115881,10/26/2008,5555700,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,2/16/2009,2/16/2009,0,113
+115881,10/26/2008,5555705,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,9/1/2009,9/10/2009,9,310
+116232,7/3/2008,5573775,786.09,Other respiratory abnormalities,Respiratory symptom,LUNG,161920001,1/6/2009,1/6/2009,0,187
+60547,4/4/2009,2911717,786.3,"Hemoptysis, unspecified",Hemoptysis,LUNG,66857006,6/8/2009,6/13/2009,5,65
+60547,4/4/2009,2911717,786.39,Other hemoptysis,Hemoptysis,LUNG,66857006,6/8/2009,6/13/2009,5,65
+29034,12/20/2009,1405093,786.52,Painful respiration,Breathing painful,LUNG,75483001,7/30/2010,7/30/2010,0,222
+60547,4/4/2009,2911824,786.52,Painful respiration,Breathing painful,LUNG,75483001,1/15/2010,1/15/2010,0,286
+86874,1/15/2010,4167657,786.52,Painful respiration,Breathing painful,LUNG,75483001,10/27/2010,10/27/2010,0,285
+103688,4/18/2009,4971425,786.52,Painful respiration,Breathing painful,LUNG,75483001,7/9/2010,7/9/2010,0,447
+16996,1/13/2009,825671,794.8,Nonspecific abnormal results of function study of liver,Liver function tests abnormal,LIVER,166603001,1/20/2009,1/20/2009,0,7
+24406,10/22/2008,1179454,794.8,Nonspecific abnormal results of function study of liver,Liver function tests abnormal,LIVER,166603001,5/11/2009,5/11/2009,0,201
+47089,4/25/2008,2270474,794.8,Nonspecific abnormal results of function study of liver,Liver function tests abnormal,LIVER,166603001,11/17/2008,11/17/2008,0,206
+50236,8/12/2008,2415882,794.8,Nonspecific abnormal results of function study of liver,Liver function tests abnormal,LIVER,166603001,4/25/2010,4/25/2010,0,621
+54046,4/17/2008,2596220,794.8,Nonspecific abnormal results of function study of liver,Liver function tests abnormal,LIVER,166603001,5/24/2008,5/24/2008,0,37
+60547,4/4/2009,2911827,794.8,Nonspecific abnormal results of function study of liver,Liver function tests abnormal,LIVER,166603001,5/30/2009,5/30/2009,0,56
+71535,1/26/2009,3433666,794.8,Nonspecific abnormal results of function study of liver,Liver function tests abnormal,LIVER,166603001,1/23/2010,1/23/2010,0,362
+73387,5/18/2008,3522852,794.8,Nonspecific abnormal results of function study of liver,Liver function tests abnormal,LIVER,166603001,5/24/2009,5/24/2009,0,371
+100679,10/28/2008,4831222,794.8,Nonspecific abnormal results of function study of liver,Liver function tests abnormal,LIVER,166603001,10/12/2009,10/12/2009,0,349

@@ -16,12 +16,12 @@ SELECT person_id as patient_id,
 	AND cr.relationship_id = 'RxNorm is a')
 )
 
-SELECT ep.patient_id, co.visit_occurrence_id, cc.concept_code as ICD9CODE, cc.concept_name as ICD9_name, 
+SELECT ep.patient_id, ep.treatment_start, co.visit_occurrence_id, cc.concept_code as ICD9CODE, cc.concept_name as ICD9_name, 
 	   c.concept_name as snomed_name, c.concept_code as snomed_code, c.domain_id, co.condition_start_date, 
        co.condition_end_date
 FROM condition_occurrence co INNER JOIN exposed_patients ep
 								ON co.person_id = ep.patient_id
-							 LEFT JOIN concept c 
+                             LEFT JOIN concept c 
 								ON co.condition_concept_id = c.concept_id
 									LEFT JOIN concept_relationship cr
 										ON c.concept_id = cr.concept_id_1
@@ -37,5 +37,6 @@ AND cc.concept_code IN ('508.8', '516.8', '793.19', '786.39', '786.30', '794.2',
                         '7948', '7945', '5738', 'V5869', '2454', '2442', '2443', '24290', '51882', '5140', '5184', 
                         '5183', '5150', '51889', '1363', '51634', '7860', '786', '514', '515', '78605', '78609', 
                         '78639', '78652', '7867', '7869')
-
+AND co.visit_occurrence_id IN (SELECT visit_occurrence_id FROM visit_occurrence WHERE person_id = ep.patient_id 
+                               AND visit_start_date >= ep.treatment_start)
 
